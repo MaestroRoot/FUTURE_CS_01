@@ -3,8 +3,9 @@
 ## Task Name
 **Vulnerability Assessment Report – Google Gruyere Web Application**
 
----
 
+---
+Target : https://google-gruyere.appspot.com/
 ## 📋 Project Overview
 
 This project documents a **Grey-box Vulnerability Assessment** performed against [Google Gruyere](https://google-gruyere.appspot.com/), a deliberately vulnerable web application developed by Google for cybersecurity training and educational purposes.
