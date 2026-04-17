@@ -95,10 +95,19 @@ A total of **6 vulnerabilities** were identified — **4 rated High** and **2 ra
 ## 👤 Author
 
 **Samson Budigila**
-Cybersecurity Student – Institute of Finance Management, Dar es Salaam, Tanzania
+Cybersecurity Student 
+
+Institute of Finance Management 
+
+Dar es Salaam, Tanzania
+
+
+Internship :FUTURE INTERNS
+
+📞 +255 757 502 743
 
 📧 [samsonbudigila6@gmail.com](mailto:samsonbudigila6@gmail.com)
-📞 +255 757 502 743
+
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/samson-budigila-08112131a?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 
 ---
